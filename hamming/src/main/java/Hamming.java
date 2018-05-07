@@ -1,7 +1,7 @@
 class Hamming {
 
-    String left = "";
-    String right = "";
+    private String left = "";
+    private String right = "";
 
     Hamming(String leftStrand, String rightStrand) {
 
